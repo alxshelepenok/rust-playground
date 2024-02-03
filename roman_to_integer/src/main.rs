@@ -18,7 +18,7 @@ impl Solution {
 
             result += match previous < current {
                 true => current - previous * 2,
-                false => current
+                false => current,
             };
 
             previous = current;

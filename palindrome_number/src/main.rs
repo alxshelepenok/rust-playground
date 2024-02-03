@@ -21,7 +21,6 @@ fn main() {
     assert_eq!(Solution::is_palindrome(121), true);
 }
 
-
 #[cfg(test)]
 mod tests {
     use super::*;

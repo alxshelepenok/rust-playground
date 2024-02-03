@@ -43,4 +43,3 @@ mod tests {
         assert_eq!(Solution::two_sum(vec![3, 3], 6), vec![0, 1]);
     }
 }
-
