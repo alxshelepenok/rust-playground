@@ -8,4 +8,5 @@ members = [
     "roman_to_integer",
     "longest_common_prefix",
     "russian_doll_envelopes",
+    "add_two_numbers"
 ]
